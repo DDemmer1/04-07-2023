@@ -15,8 +15,7 @@ SS23 - Comparator, Compare
 
 - Implementiert für ```String adress``` und ```int phoneNumber``` einen ```Comparator```
 - Sortiert einmal nach  ```String adress``` und einmal nach ```int phoneNumber```, benutzt dafür die ```Collections.sort(hierDasArray, hierDerComparator)```-Methode
-- Lasst euch nach jeder Sortierung das Array in der Konsole ausgeben (```Arrays.toString(hierEinArray)``` erzeugt einen lesbaren String der per sysout ausgegeben werden kann)
-
+- Lasst euch nach jeder Sortierung die Liste in der Konsole ausgeben
 
 
 
