@@ -9,7 +9,7 @@ SS23 - Comparator, Compare
 ------------------------------
 
 - Erzeugt 5 ```Contact``` Objekte in der ```main-methode```
-- Erstellt ein ```Contact```-Array und füllt dieses mit den 5 ```Contact``` Objekten
+- Erstellt ein ```Contact```-Liste und füllt dieses mit den 5 ```Contact``` Objekten
 
 ------------------------------
 
